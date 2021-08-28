@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Frank, welcome on my page
+### Hi there 👋! I'm Frank. Welcome on my page!
 
 I am a Full Stack Software Engineer from Switzerland currently working [@foodprint](https://github.com/frankperler/foodprint). In a former life, I was finance manager at a US medtech company (Masimo).
 
