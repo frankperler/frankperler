@@ -19,4 +19,4 @@ Some of my favourite technologies: <br>
 - 🔭 I’m currently working on adding new features on the foodprint. web app using React and Typescript
 - 🌱 I’m currently learning [Styled Components](https://styled-components.com/). I also continue improving my skills with [Solidity](https://docs.soliditylang.org/en/v0.5.3/index.html#).
 - 💬 Ask me about: anything, always open to chat :)
-- 📫 How to reach me: fperler@gmail.com
+- 📫 How to reach me: by email fperler@gmail.com or on [LinkedIn](https://www.linkedin.com/in/frank-perler/) 
