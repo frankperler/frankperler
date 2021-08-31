@@ -16,7 +16,7 @@ Some of my favourite technologies: <br>
 
 ## What I am doing now?
 
-- 🔭 I’m currently working on adding new features on the foodprint. web app using React and Typescript
+- 🔭 I’m currently working on adding new features on the foodprint. web app using React and Typescript as well as writing a test suite for my tegfarm app
 - 🌱 I’m currently learning [Styled Components](https://styled-components.com/). I also continue improving my skills with [Solidity](https://docs.soliditylang.org/en/v0.5.3/index.html#).
 - 💬 Ask me about: anything, always open to chat :)
 - 📫 How to reach me: by email fperler@gmail.com or on [LinkedIn](https://www.linkedin.com/in/frank-perler/) 
