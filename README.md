@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm Frank. Welcome on my page!
 
-I am a Full Stack Engineer from Switzerland currently working [@foodprint](https://github.com/frankperler/foodprint). In a former life, I was finance manager at a US medtech company (Masimo).
+I am a Full Stack Engineer from Switzerland currently working [@Olympe](https://olympe.io/). In a former life, I was finance manager at a US medtech company (Masimo).
 
 I love designing and creating applications from the ground up. I also have strong interest in blockchain technology whether it is creating smart contracts with Solidity or building front-ends with Web3.js. 
 
@@ -16,7 +16,7 @@ Some of my favourite technologies: <br>
 
 ## What I am doing now?
 
-- 🔭 I’m currently working on adding new features on the foodprint. web app using React and Typescript as well as writing a test suite for my tegfarm app
-- 🌱 I’m currently deep diving into [Styled Components](https://styled-components.com/), [Redux](https://redux.js.org/) and [GraphQL](https://graphql.org/learn/). I also continue improving my skills with [Solidity](https://docs.soliditylang.org/en/v0.5.3/index.html#) and [Web3.js](https://web3js.readthedocs.io/en/v1.4.0/#).
+- 🔭 I’m currently working on a new mobile application (tops) using React-native, Typescript and Redux.
+- 🌱 I’m currently deep diving into [Styled Components](https://styled-components.com/), [Redux](https://redux.js.org/) and [GraphQL](https://graphql.org/learn/).
 - 💬 Ask me about: anything, always open to chat :)
 - 📫 How to reach me: by email fperler@gmail.com or on [LinkedIn](https://www.linkedin.com/in/frank-perler/) 
