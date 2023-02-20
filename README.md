@@ -1,10 +1,10 @@
 ### Hi there 👋! I'm Frank. Welcome on my page!
 
-I am a Full Stack Engineer from Switzerland currently working [@Olympe](https://olympe.io/). In a former life, I was finance manager at a US medtech company (Masimo).
+I am a Sales Operations Director working for a medtech company called Masimo. I am Swiss but I am currently living in Orange County, California.
 
 I love designing and creating applications from the ground up. I also have strong interest in blockchain technology whether it is creating smart contracts with Solidity or building front-ends with Web3.js. 
 
-In my spare time, I enjoy playing football, running, swimming and all sports in general. I am always curious to learn new technologies.
+In my spare time, I enjoy playing football, running and all sports in general. I am always curious to learn new technologies.
 
 Some of my favourite technologies: <br>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
